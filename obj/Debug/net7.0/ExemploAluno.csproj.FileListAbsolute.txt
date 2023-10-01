@@ -1,0 +1,14 @@
+D:\Cursos\ADA\Modulo2\ExemploAluno\bin\Debug\net7.0\ExemploAluno.exe
+D:\Cursos\ADA\Modulo2\ExemploAluno\bin\Debug\net7.0\ExemploAluno.deps.json
+D:\Cursos\ADA\Modulo2\ExemploAluno\bin\Debug\net7.0\ExemploAluno.runtimeconfig.json
+D:\Cursos\ADA\Modulo2\ExemploAluno\bin\Debug\net7.0\ExemploAluno.dll
+D:\Cursos\ADA\Modulo2\ExemploAluno\bin\Debug\net7.0\ExemploAluno.pdb
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.AssemblyInfoInputs.cache
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.AssemblyInfo.cs
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.csproj.CoreCompileInputs.cache
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.dll
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\refint\ExemploAluno.dll
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.pdb
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ExemploAluno.genruntimeconfig.cache
+D:\Cursos\ADA\Modulo2\ExemploAluno\obj\Debug\net7.0\ref\ExemploAluno.dll
